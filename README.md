@@ -10,8 +10,8 @@ Hi, I’m **Chijioke Franklin Elui**, a tech support and learner experience spec
 I’m AWS-certified (CCP & SAA) and learning Docker, Kubernetes, IAM, and DevSecOps with a strong focus on real-world security use cases.
 
 GitHub: [@eluiceejay](https://github.com/eluiceejay)  
-Twitter: [@franklinelui](https://twitter.com/franklinelui)  
-TikTok: [@franklinelui](https://tiktok.com/@franklinelui)
+Twitter: [@franklinelui](ttps://x.com/JiokeCloudSec)
+TikTok: [@franklinelui](https://tiktok.com/@JiokeCloudSec)
 
 ---
 
